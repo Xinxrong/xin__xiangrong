@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552211522 source:d:\矩阵相加\main.cpp
+	<iostream>
+	"MatrixPlus.h"
+
+1552212002 d:\矩阵相加\include\matrixplus.h
+	<iostream>
+	<string>
+
+1552212042 source:d:\矩阵相加\src\matrixplus.cpp
+	"MatrixPlus.h"
+	<iomanip>
+
