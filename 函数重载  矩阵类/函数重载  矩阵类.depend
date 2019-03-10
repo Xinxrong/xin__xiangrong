@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1551863902 source:c:\users\administrator\desktop\函数重载  矩阵类\src\matrix.cpp
+	"Matrix.h"
+	<iomanip>
+
+1551861489 c:\users\administrator\desktop\函数重载  矩阵类\include\matrix.h
+	<iostream>
+	<string>
+
+1551863695 source:c:\users\administrator\desktop\函数重载  矩阵类\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1551863696 source:d:\函数重载  矩阵类\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1551861490 d:\函数重载  矩阵类\include\matrix.h
+	<iostream>
+	<string>
+
+1552198034 source:d:\函数重载  矩阵类\src\matrix.cpp
+	"Matrix.h"
+	<iomanip>
+
