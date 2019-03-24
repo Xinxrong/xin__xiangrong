@@ -1,6 +1,5 @@
-
-
-#include "Matrix.h"
+#include <iostream>
+#include "matrix.h"
 using namespace std;
 
 int main()
@@ -13,6 +12,3 @@ int main()
 	x.Show();
 	return 0;
 }
-
-
-
