@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1555847804 source:d:\12.12\src\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1555847850 d:\12.12\include\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1555848262 d:\12.12\include\commissionemployee.h
+	"Employee.h"
+
+1555847916 d:\12.12\include\employee.h
+	<string>
+	"Date.h"
+
+1555847980 d:\12.12\include\date.h
+	<iostream>
+
+1555848214 source:d:\12.12\src\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1555848122 source:d:\12.12\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1555847146 source:d:\12.12\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1555848438 d:\12.12\include\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1555847578 d:\12.12\include\hourlyemployee.h
+	"Employee.h"
+
+1555847692 source:d:\12.12\src\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1555847574 source:d:\12.12\src\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1555847552 source:d:\12.12\src\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+

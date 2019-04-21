@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1555849240 source:c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\src\overnightpackage.cpp
+	"OvernightPackage.h"
+
+1555849776 c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\include\overnightpackage.h
+	"Package.h"
+
+1555849776 c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\include\package.h
+	<string>
+
+1555848962 source:c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\src\package.cpp
+	"Package.h"
+
+1555849336 source:c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\src\twodaypackage.cpp
+	"TwoDayPackage.h"
+
+1555849776 c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\include\twodaypackage.h
+	"Package.h"
+
+1555849888 source:c:\users\–¡œ„»ÿ\desktop\12.13package ºÃ≥–≤„¥Œ\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Package.h"
+	"TwoDayPackage.h"
+	"OvernightPackage.h"
+

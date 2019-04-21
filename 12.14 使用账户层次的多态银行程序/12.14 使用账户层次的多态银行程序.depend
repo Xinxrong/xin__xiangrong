@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555850849 source:c:\users\辛香蓉\desktop\12.14 使用账户层次的多态银行程序\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1555850857 c:\users\辛香蓉\desktop\12.14 使用账户层次的多态银行程序\include\account.h
+
+1555850964 source:c:\users\辛香蓉\desktop\12.14 使用账户层次的多态银行程序\src\checkingaccount.cpp
+	<iostream>
+	"CheckingAccount.h"
+
+1555850947 c:\users\辛香蓉\desktop\12.14 使用账户层次的多态银行程序\include\checkingaccount.h
+	"Account.h"
+
